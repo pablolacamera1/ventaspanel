@@ -161,7 +161,7 @@ MIT
 
 **Pablo Sebastián La Camera**
 - GitHub: [@pablolacamera1](https://github.com/pablolacamera1)
-- LinkedIn: [Tu LinkedIn](https://linkedin.com/in/tu-perfil)
+- LinkedIn: [Tu LinkedIn](https://linkedin.com/in/pablolacamera)
 
 ## 🙏 Agradecimientos
 
